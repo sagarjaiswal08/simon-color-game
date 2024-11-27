@@ -1,0 +1,46 @@
+body   {
+
+  text-align: center;
+}
+.btn {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  border: 10px solid black;
+  margin: 20px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+.div1{
+    justify-content: center;
+  display: flex ;
+  margin: 10px;
+ 
+}
+.div2{
+    justify-content: center;
+   display: flex ;
+   margin: 10px;
+ 
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green
+}
+.blue{    
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.userBtnFlash{
+    background-color: pink;
+}
